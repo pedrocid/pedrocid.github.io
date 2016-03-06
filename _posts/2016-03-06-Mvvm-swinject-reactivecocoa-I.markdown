@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pedro Cid Blog"
+title:  "MVVM, Swinject y ReactiveCocoa"
 date:   2016-03-06 14:19:43 +0100
 categories: jekyll update
 ---
